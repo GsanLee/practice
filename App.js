@@ -9,7 +9,9 @@ export default class App extends React.Component {
         <Text>Eric Choi</Text>
         <Text>Welcome</Text>
         <Text>123</Text>
-<Text>123</Text>
+        <Text>123</Text>
+        <Text>3436</Text>
+        <Text>asdfselasjelgk</Text>
 <Text>123</Text>
 <Text>123</Text>
       </View>
